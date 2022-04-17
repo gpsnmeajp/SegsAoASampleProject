@@ -9,7 +9,7 @@ Android
 
 PC
 + [C + libusb](pc/cpp)
-+ [Python + pyusb](pc/python)
++ [Python + pyusb](pc/py)
 
 詳細はQiita記事を書く予定です。
 
