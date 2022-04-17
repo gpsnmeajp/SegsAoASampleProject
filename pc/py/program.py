@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
 
+/**
+ * SegsAoASampleProject by gpsnmeajp v0.01
+ * 
+ * These codes are licensed under CC0.
+ * http://creativecommons.org/publicdomain/zero/1.0/deed.ja
+ */
+
 #sudo pip install pyusb
 
 import time
